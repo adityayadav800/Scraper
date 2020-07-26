@@ -1,0 +1,327 @@
+[
+ {
+   "name": "Divine Properties",
+   "rating": 3.5,
+   "address": "Shop No-2, Avenue Road, Faridabad Sector 81, Faridabad - 121002, Near DPS"
+ },
+ {
+   "name": "Yadav Properties",
+   "rating": 4.1,
+   "address": "Khasra No 327 Ground Floor, Sultanpur, Delhi - 110030, Near Chota Peer Baba"
+ },
+ {
+   "name": "Vijay Estate Agency",
+   "rating": 5,
+   "address": "Shop No-E-211, Krishna Market, Lajpat Nagar 1, Delhi - 110024, Near Dr Ashwini Sarna Clinic"
+ },
+ {
+   "name": "Sai Associates",
+   "rating": 4.1,
+   "address": "Site 1/61, Main Market, Vikaspuri, Delhi - 110018, Opposite A Block 43"
+ },
+ {
+   "name": "Naunidh Associates",
+   "rating": 3.8,
+   "address": "UC-16, Shop No-1, Usha Park, Hari Nagar, Delhi - 110064, Behind Om Sweets Jail Road"
+ },
+ {
+   "name": "New Delhi Properties",
+   "rating": 4.3,
+   "address": "E189, Greater Kailash, Delhi - 110048, Gk"
+ },
+ {
+   "name": "Satguru Property",
+   "rating": 3.5,
+   "address": "House No 230, Opositive Gurugwara Prakash Mohlla, East Of Kailash, Delhi - 110065, M Cinemas-East Of Kailash"
+ },
+ {
+   "name": "SELECT PROPERTIES",
+   "rating": 4,
+   "address": "C-159, Office No 105, First Floor, Naraina Industrial Area, Phase-1, Naraina, Delhi - 110028, Opp Yes Bank"
+ },
+ {
+   "name": "Hanumanta Properties",
+   "rating": 4.2,
+   "address": "G-79, Aggarwal Metro Heights, Pitampura, Netaji Subhash Place Complex-pitampura, Delhi - 110034"
+ },
+ {
+   "name": "Balaji Properties",
+   "rating": 3.9,
+   "address": "Shop No- 52, Wadhawa Market Kingsway Camp, GTB Nagar, Delhi - 110009, Nearest Gtb Nagar Metro Gate No- 4"
+ },
+ {
+   "name": "Horizon Reality Care",
+   "rating": 3.9,
+   "address": "119 Ground Floor, Opposite B6/74, Safdarjung Enclave, Delhi - 110029, Near Deer Park"
+ },
+ {
+   "name": "Bhawani Estates",
+   "rating": 4,
+   "address": "20, DDA Commercial Market(B Block), New Friends Colony, Delhi - 110025, B Block Market"
+ },
+ {
+   "name": "Vishal Realtech & Developers Pvt Ltd",
+   "rating": 4.6,
+   "address": "Flat Number 49, Rose Apartment, Lig Flats, Pocket B, Dwarka Sector 18b, Delhi - 110075, Near Venkateshwar Hospital"
+ },
+ {
+   "name": "Combispace",
+   "rating": 5,
+   "address": "Cs 7 First Floor, Commercial Market, Gyan Khand 2-Indirapuram, Ghaziabad - 201014, Near St.Thomas School"
+ },
+ {
+   "name": "Shri Mahima Realtors",
+   "rating": 3.9,
+   "address": "Mayur Vihar Phase 1, Delhi - 110091, Near Samachar Apartment"
+ },
+ {
+   "name": "Rajouri Associates",
+   "rating": 3.5,
+   "address": "173-A, DDA FLATS, Rajouri Garden, Delhi - 110027, Near Barbeque"
+ },
+ {
+   "name": "Ganga Properties",
+   "rating": 4.1,
+   "address": "B-2/61, Rohini Sector 6, Delhi - 110085, Dr Baba Saheb Ambedkar Hospital"
+ },
+ {
+   "name": "South Delhi Property &Construction",
+   "rating": 4,
+   "address": "Shop No-763/7, Kotla Mubarakpur, Delhi - 110003, Near Gurudwara"
+ },
+ {
+   "name": "Goldstone LAND",
+   "rating": 4.8,
+   "address": "B 37-38, Palam Vyapar Kendra, Palam Vihar, Gurgaon - 122017"
+ },
+ {
+   "name": "Arora Properties",
+   "rating": 4.5,
+   "address": "4 Number Defence Enclave, Preet Vihar, Delhi - 110092, Near Classic Ice Cream Parlour"
+ },
+ {
+   "name": "Vaibhav Laxmi Property",
+   "rating": 3.2,
+   "address": "A 87, Sangam Vihar, Delhi - 110080, Near Batra Hospital"
+ },
+ {
+   "name": "Yaduvanshi Global Reality",
+   "rating": 3.5,
+   "address": "CRPF Camp Road, Sector 61, Gurgaon, Gurgaon - 122001, Near Pioneer Park, Opp.indian Oil Petrol Pump"
+ },
+ {
+   "name": "Shri Har Properties And Builders",
+   "rating": 3.8,
+   "address": "Office Number 2977, Ranjit Nagar, South Patel Nagar, Delhi - 110008, Opposite South Patel Nagar Metro Station"
+ },
+ {
+   "name": "Narula Associates",
+   "rating": 4,
+   "address": "Shop Number 5, Main Road, Munirka, Delhi - 110067, Near Capital Court and Hanuman Mandir Lalji"
+ },
+ {
+   "name": "Vee Dee Properties",
+   "rating": 4,
+   "address": "R-15/43, Raj Nagar Ghaziabad, Ghaziabad - 201002, Near Hint Chowk"
+ },
+ {
+   "name": "Reality Profession",
+   "rating": 5,
+   "address": "Office No 101, 102, Raj Nagar Extension Ghaziabad, Ghaziabad - 201017"
+ },
+ {
+   "name": "Kishan Properties",
+   "rating": 3.7,
+   "address": "Shop Number 2, Ground Floor, M J Shopping Centre, Inside Gallery, Main Madhuban Road, Shakarpur, Delhi - 110092, Near Madhuban Sweet, Opposite Nirman Vihar Metro Station"
+ },
+ {
+   "name": "Kaveri Associates",
+   "rating": 4.1,
+   "address": "Flat No.543, D-6, Vasant Kunj, Delhi - 110070, Near Vasant Square Mall"
+ },
+ {
+   "name": "Sunny Associates",
+   "rating": 3.5,
+   "address": "B/1, Vasant Kunj, Vasant Kunj, Delhi - 110070, Near OBC Bank"
+ },
+ {
+   "name": "RB Property Point",
+   "rating": 5,
+   "address": "Office No-40, Omaxe Arcade Complex, Greater Noida, Noida - 201310, Pari Chowk"
+ },
+ {
+   "name": "Jee Properties",
+   "rating": 2.3,
+   "address": "A-455, Shastri Nagar, Shastri Nagar N, Delhi - 110052, Near Prem Chowk"
+ },
+ {
+   "name": "Radha Kishan Enterprises Developers& Promoters",
+   "rating": 3.8,
+   "address": "D-10, Ground Floor Flat No-1, Kalkagreen Appartment  Shanti Kunj, Vasant Kunj, Delhi - 110070, Near Amma Ashram"
+ },
+ {
+   "name": "Wadhawan Associates",
+   "rating": 3.6,
+   "address": "Shop No-02 Plot No-11, H- Pkt Market, Near Bikaner Sweet, Sarita Vihar, Delhi - 110076, Near HDFC Bank"
+ },
+ {
+   "name": "Shyam Property",
+   "rating": 5,
+   "address": "Plot No 478, Manesar, gurgaon - 122051, Near Imt Chowk"
+ },
+ {
+   "name": "Investours House Reality",
+   "rating": 3.5,
+   "address": "Plot No 8, Niti Khand 1-Indirapuram, Ghaziabad - 201014, Near Kala Pathar"
+ },
+ {
+   "name": "Shree Properties",
+   "rating": 4.4,
+   "address": "A-647, Noida Sector 19, Noida - 201301"
+ },
+ {
+   "name": "Deep Associates",
+   "rating": 4.3,
+   "address": "A-37 GF, Palam Vyapar Kendra, Palam Vihar, Gurgaon - 122017"
+ },
+ {
+   "name": "Jd Property",
+   "rating": 4,
+   "address": "Shop No 12, Indirapuram, Ghaziabad - 201014, Near By Aditya Mall"
+ },
+ {
+   "name": "Anand Associates",
+   "rating": 4.1,
+   "address": "Plot No 5 Sushant Lok 2 Sec 56 Gurgaon, gurgaon - 122001"
+ },
+ {
+   "name": "Vanshikaa Properties",
+   "rating": 4.3,
+   "address": "218-A, Pocket-B, Mayur Vihar Phase 2, Delhi - 110091, Metro Station Mayur Vihar Phase 2 Gate No. 2"
+ },
+ {
+   "name": "Modern Properties",
+   "rating": 4,
+   "address": "Plot No 153, gurgaon - 122017, Opposite Hungry Panda"
+ },
+ {
+   "name": "Guru Nanak Associates",
+   "rating": 4.5,
+   "address": "Plot No 255, Amrahi Village, Dwarka Sector 19, Delhi - 110075, Near DTC  BUS  STAND"
+ },
+ {
+   "name": "Shivam Property",
+   "rating": 4.2,
+   "address": "CUG-1, Milan Earth, Raj Nagar Extension Ghaziabad, Ghaziabad - 201017, Nearly Kw Shristi"
+ },
+ {
+   "name": "Fix Deal Properties Consultant",
+   "rating": 3.5,
+   "address": "106/1, Kaushalya Park, Syndicate Bank, Hauz Khas, Delhi - 110016"
+ },
+ {
+   "name": "Chopra Properties",
+   "rating": 4.3,
+   "address": "WZ-26, B-1 A, Subhash Nagar, Delhi - 110027, Near Chatriwala Park 2 Block"
+ },
+ {
+   "name": "Reenukaa Properties",
+   "rating": 3.9,
+   "address": "Wz 1656a, Ground Floor, Nr Patanjali Store, Nangal Raya, Delhi - 110046, Nr Arora Mart"
+ },
+ {
+   "name": "Sri Balaji Associates",
+   "rating": 3.9,
+   "address": "G 5/30  grd floor, Rohini Sector 16, Delhi - 110089, Mahadev Mindir"
+ },
+ {
+   "name": "Rentwale.com",
+   "rating": 3.5,
+   "address": "1/186 Subash Nagar, Subhash Nagar, Delhi - 110027"
+ },
+ {
+   "name": "Parvatiya Realty",
+   "rating": 3.7,
+   "address": "Flat No. 305, Abhay Khand 3-Indirapuram, Ghaziabad - 201014, Near MOther Dairy"
+ },
+ {
+   "name": "Noble Estate & Developers",
+   "rating": 4,
+   "address": "7/59, Old Double Storey, Amar Colony-lajpat Nagar, Delhi - 110024, Near Gurudwara"
+ },
+ {
+   "name": "Trehan Properties",
+   "rating": 3.8,
+   "address": "B 191, Ground Floor, Naraina Industrial Phase 1, Delhi - 110028, Near Bikaner Wala"
+ },
+ {
+   "name": "Rana Property Consultants",
+   "rating": 5,
+   "address": "38/10, G Block, Dda Market, Behind PVR Vikaspuri, Vikaspuri, delhi - 110018, Opposite SBI Bank"
+ },
+ {
+   "name": "Satguru Properties",
+   "rating": 4,
+   "address": "I 24, Lajpat Nagar 1, Delhi - 110024, Near Lajpat Nagar Railway Station"
+ },
+ {
+   "name": "Vasu Traders",
+   "rating": 3.5,
+   "address": "House No - 108, Khichripur, Mayur Vihar Phase 2, Delhi - 110091"
+ },
+ {
+   "name": "Shree S S Properties and Dealers Pvt Ltd",
+   "rating": 4.1,
+   "address": "631, Niti Khand 2-Indirapuram, Ghaziabad - 201014, Opposite Presidium School"
+ },
+ {
+   "name": "Amit Estate",
+   "rating": 4.1,
+   "address": "1/2 shop no, Outer Ring Road, Sunder Vihar, Delhi - 110087, Opposite White House and McDonalds"
+ },
+ {
+   "name": "Mukesh Properties And Builder",
+   "rating": 4.7,
+   "address": "J-79, Paryavaran Complex, Freedom Fighters Enclave Neb Sarai, Delhi - 110068, Near Z More"
+ },
+ {
+   "name": "Rentpai.com",
+   "rating": 3,
+   "address": "Shop No :- 1, Ist Floor, Yadav Market, Bisrakh, Noida - 201306, Near Hanuman Mandir Gol Chakkar"
+ },
+ {
+   "name": "Amber Associates",
+   "rating": 4.3,
+   "address": "SC -159, Jaipuria Sunrise Plaza, Indirapuram, ghaziabad - 201014, Jaipuria Mall"
+ },
+ {
+   "name": "Yadav Properties",
+   "rating": 4.1,
+   "address": "Khasra No 327 Ground Floor, Sultanpur, Delhi - 110030, Near Chota Peer Baba"
+ },
+ {
+   "name": "Luv Kush Niwas & Universe Health Club",
+   "rating": 4.8,
+   "address": "B-118, Street Old Post Office, Shakarpur, Delhi - 110092, Near Laundry Express Laundromat"
+ },
+ {
+   "name": "Sahni Properties",
+   "rating": 3.7,
+   "address": "Plot Number 140, Pocket No 16, Rohini Sector 24, Delhi - 110085, Near DPS School, Pocket Number 11"
+ },
+ {
+   "name": "Vee Dee Properties",
+   "rating": 4,
+   "address": "R-15/43, Raj Nagar Ghaziabad, Ghaziabad - 201002, Near Hint Chowk"
+ },
+ {
+   "name": "Jd Property",
+   "rating": 4,
+   "address": "Shop No 12, Indirapuram, Ghaziabad - 201014, Near By Aditya Mall"
+ },
+ {
+   "name": "Reality Profession",
+   "rating": 5,
+   "address": "Office No 101, 102, Raj Nagar Extension Ghaziabad, Ghaziabad - 201017"
+ }
+]
